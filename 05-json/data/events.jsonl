@@ -1,0 +1,32 @@
+{"ts": "2026-03-14T09:00:19", "user": "dina", "event": "view", "page": "/cart"}
+{"ts": "2026-03-14T09:00:51", "user": "dina", "event": "logout"}
+{"ts": "2026-03-14T09:01:44", "user": "emil", "event": "purchase", "amount": 61.8}
+{"ts": "2026-03-14T09:02:29", "user": "emil", "event": "purchase", "amount": 57.03}
+{"ts": "2026-03-14T09:02:43", "user": "asha", "event": "logout"}
+{"ts": "2026-03-14T09:03:23", "user": "emil", "event": "logout"}
+{"ts": "2026-03-14T09:03:33", "user": "chen", "event": "purchase", "amount": 70.62}
+{"ts": "2026-03-14T09:04:17", "user": "emil", "event": "purchase", "amount": 7.2}
+{"ts": "2026-03-14T09:04:39", "user": "dina", "event": "view", "page": "/products"}
+{"ts": "2026-03-14T09:04:47", "user": "chen", "event": "logout"}
+{"ts": "2026-03-14T09:05:22", "user": "ben", "event": "logout"}
+{"ts": "2026-03-14T09:20:00", "user": "ben", "event": "view", "page": "/ho
+{"ts": "2026-03-14T09:05:33", "user": "asha", "event": "purchase", "amount": 56.35}
+{"ts": "2026-03-14T09:06:58", "user": "chen", "event": "purchase", "amount": 115.22}
+{"ts": "2026-03-14T09:07:28", "user": "dina", "event": "view", "page": "/cart"}
+{"ts": "2026-03-14T09:07:55", "user": "asha", "event": "purchase", "amount": 91.83}
+{"ts": "2026-03-14T09:09:08", "user": "asha", "event": "purchase", "amount": 25.6}
+{"ts": "2026-03-14T09:09:47", "user": "chen", "event": "logout"}
+{"ts": "2026-03-14T09:11:01", "user": "emil", "event": "purchase", "amount": 62.55}
+{"ts": "2026-03-14T09:11:26", "user": "ben", "event": "view", "page": "/home"}
+{"ts": "2026-03-14T09:12:23", "user": "dina", "event": "purchase", "amount": 19.94}
+{"ts": "2026-03-14T09:13:26", "user": "asha", "event": "view", "page": "/help"}
+{"ts": "2026-03-14T09:14:41", "user": "emil", "event": "purchase", "amount": 96.63}
+{"ts": "2026-03-14T09:15:29", "user": "chen", "event": "view", "page": "/products"}
+this line is not json at all
+{"ts": "2026-03-14T09:15:46", "user": "asha", "event": "purchase", "amount": 29.53}
+{"ts": "2026-03-14T09:16:40", "user": "chen", "event": "login"}
+{"ts": "2026-03-14T09:17:53", "user": "chen", "event": "logout"}
+{"ts": "2026-03-14T09:18:31", "user": "asha", "event": "purchase", "amount": 45.08}
+{"ts": "2026-03-14T09:18:46", "user": "dina", "event": "login"}
+{"ts": "2026-03-14T09:19:34", "user": "dina", "event": "purchase", "amount": 93.35}
+{"ts": "2026-03-14T09:20:41", "user": "ben", "event": "login"}

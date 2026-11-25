@@ -1,0 +1,338 @@
+{
+  "shop": "Demo Office Supplies",
+  "currency": "EUR",
+  "products": [
+    {
+      "id": 1,
+      "name": "Desk Lamp",
+      "price": 24.99,
+      "tags": [
+        "premium",
+        "sale"
+      ],
+      "stock": {
+        "pune": 8,
+        "delhi": 12,
+        "chennai": 40
+      },
+      "dimensions": {
+        "width_cm": 42,
+        "height_cm": 14
+      }
+    },
+    {
+      "id": 2,
+      "name": "USB Hub",
+      "price": 18.5,
+      "tags": [],
+      "stock": {
+        "pune": 40,
+        "delhi": 12,
+        "chennai": 8
+      },
+      "dimensions": {
+        "width_cm": 45,
+        "height_cm": 41
+      }
+    },
+    {
+      "id": 3,
+      "name": "Notebook A5",
+      "price": 4.25,
+      "tags": [],
+      "stock": {
+        "pune": 0,
+        "delhi": 8,
+        "chennai": 3
+      },
+      "dimensions": {
+        "width_cm": 14,
+        "height_cm": 7
+      }
+    },
+    {
+      "id": 4,
+      "name": "Ballpoint Pen Set",
+      "price": 6.8,
+      "tags": [
+        "eco",
+        "sale"
+      ],
+      "stock": {
+        "pune": 8,
+        "delhi": 8,
+        "chennai": 25
+      },
+      "dimensions": {
+        "width_cm": 52,
+        "height_cm": 41
+      }
+    },
+    {
+      "id": 5,
+      "name": "Water Bottle",
+      "price": 12.0,
+      "tags": [
+        "eco",
+        "new",
+        "sale"
+      ],
+      "stock": {
+        "pune": 0,
+        "delhi": 40,
+        "chennai": 12
+      },
+      "dimensions": {
+        "width_cm": 9,
+        "height_cm": 5
+      }
+    },
+    {
+      "id": 6,
+      "name": "Laptop Stand",
+      "price": 39.9,
+      "tags": [],
+      "stock": {
+        "pune": 0,
+        "delhi": 0,
+        "chennai": 12
+      },
+      "dimensions": {
+        "width_cm": 6,
+        "height_cm": 31
+      }
+    },
+    {
+      "id": 7,
+      "name": "Wireless Mouse",
+      "price": 15.75,
+      "tags": [
+        "premium"
+      ],
+      "stock": {
+        "pune": 12,
+        "delhi": 40,
+        "chennai": 0
+      },
+      "dimensions": {
+        "width_cm": 38,
+        "height_cm": 16
+      }
+    },
+    {
+      "id": 8,
+      "name": "Mechanical Keyboard",
+      "price": 89.0,
+      "tags": [
+        "eco",
+        "new"
+      ],
+      "stock": {
+        "pune": 0,
+        "delhi": 25,
+        "chennai": 0
+      },
+      "dimensions": {
+        "width_cm": 34,
+        "height_cm": 43
+      }
+    },
+    {
+      "id": 9,
+      "name": "Monitor Arm",
+      "price": 54.5,
+      "tags": [
+        "premium"
+      ],
+      "stock": {
+        "pune": 12,
+        "delhi": 40,
+        "chennai": 0
+      },
+      "dimensions": {
+        "width_cm": 50,
+        "height_cm": 18
+      }
+    },
+    {
+      "id": 10,
+      "name": "Sticky Notes",
+      "price": 2.99,
+      "tags": [
+        "new",
+        "sale"
+      ],
+      "stock": {
+        "pune": 12,
+        "delhi": 3,
+        "chennai": 0
+      },
+      "dimensions": {
+        "width_cm": 9,
+        "height_cm": 38
+      }
+    },
+    {
+      "id": 11,
+      "name": "Whiteboard Marker",
+      "price": 7.4,
+      "tags": [],
+      "stock": {
+        "pune": 8,
+        "delhi": 0,
+        "chennai": 40
+      },
+      "dimensions": {
+        "width_cm": 23,
+        "height_cm": 26
+      }
+    },
+    {
+      "id": 12,
+      "name": "Desk Mat",
+      "price": 19.99,
+      "tags": [],
+      "stock": {
+        "pune": 0,
+        "delhi": 40,
+        "chennai": 25
+      },
+      "dimensions": {
+        "width_cm": 5,
+        "height_cm": 15
+      }
+    },
+    {
+      "id": 13,
+      "name": "Headphones",
+      "price": 59.0,
+      "tags": [],
+      "stock": {
+        "pune": 0,
+        "delhi": 8,
+        "chennai": 8
+      },
+      "dimensions": {
+        "width_cm": 50,
+        "height_cm": 27
+      }
+    },
+    {
+      "id": 14,
+      "name": "Webcam",
+      "price": 34.25,
+      "tags": [
+        "sale"
+      ],
+      "stock": {
+        "pune": 12,
+        "delhi": 25,
+        "chennai": 0
+      },
+      "dimensions": {
+        "width_cm": 54,
+        "height_cm": 45
+      }
+    },
+    {
+      "id": 15,
+      "name": "Phone Holder",
+      "price": 9.99,
+      "tags": [
+        "eco",
+        "sale"
+      ],
+      "stock": {
+        "pune": 0,
+        "delhi": 3,
+        "chennai": 3
+      },
+      "dimensions": {
+        "width_cm": 5,
+        "height_cm": 28
+      }
+    },
+    {
+      "id": 16,
+      "name": "Cable Organizer",
+      "price": 5.5,
+      "tags": [],
+      "stock": {
+        "pune": 0,
+        "delhi": 0,
+        "chennai": 25
+      },
+      "dimensions": {
+        "width_cm": 11,
+        "height_cm": 2
+      }
+    },
+    {
+      "id": 17,
+      "name": "Backpack",
+      "price": 44.0,
+      "tags": [],
+      "stock": {
+        "pune": 8,
+        "delhi": 40,
+        "chennai": 8
+      },
+      "dimensions": {
+        "width_cm": 16,
+        "height_cm": 45
+      }
+    },
+    {
+      "id": 18,
+      "name": "Coffee Mug",
+      "price": 8.75,
+      "tags": [
+        "new",
+        "premium"
+      ],
+      "stock": {
+        "pune": 12,
+        "delhi": 0,
+        "chennai": 25
+      },
+      "dimensions": {
+        "width_cm": 54,
+        "height_cm": 10
+      }
+    },
+    {
+      "id": 19,
+      "name": "Plant Pot",
+      "price": 11.25,
+      "tags": [
+        "premium"
+      ],
+      "stock": {
+        "pune": 0,
+        "delhi": 8,
+        "chennai": 8
+      },
+      "dimensions": {
+        "width_cm": 18,
+        "height_cm": 2
+      }
+    },
+    {
+      "id": 20,
+      "name": "Wall Clock",
+      "price": 16.4,
+      "tags": [
+        "eco"
+      ],
+      "stock": {
+        "pune": 0,
+        "delhi": 0,
+        "chennai": 0
+      },
+      "dimensions": {
+        "width_cm": 30,
+        "height_cm": 40
+      }
+    }
+  ]
+}

@@ -1,0 +1,356 @@
+{
+  "status": "ok",
+  "page": 1,
+  "per_page": 25,
+  "total": 25,
+  "data": [
+    {
+      "id": 1,
+      "name": "Asha",
+      "email": "asha@mail.test",
+      "active": true,
+      "roles": [
+        "editor"
+      ],
+      "last_login": "2026-03-04T13:16:00",
+      "address": {
+        "city": "Pune",
+        "country": "India"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Ben",
+      "email": "ben@mail.test",
+      "active": true,
+      "roles": [
+        "billing",
+        "admin"
+      ],
+      "last_login": "2026-03-02T07:13:00",
+      "address": {
+        "city": "Lyon",
+        "country": "France"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Chen",
+      "email": "chen@mail.test",
+      "active": false,
+      "roles": [
+        "viewer",
+        "billing"
+      ],
+      "last_login": "2026-03-08T08:37:00",
+      "address": {
+        "city": "Chennai",
+        "country": "India"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Dina",
+      "email": "dina@mail.test",
+      "active": false,
+      "roles": [
+        "editor",
+        "viewer"
+      ],
+      "last_login": "2026-03-03T10:58:00"
+    },
+    {
+      "id": 5,
+      "name": "Emil",
+      "email": "emil@example.com",
+      "active": true,
+      "roles": [
+        "editor"
+      ],
+      "last_login": "2026-03-03T17:40:00",
+      "address": {
+        "city": "Lyon",
+        "country": "France"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Farah",
+      "email": "farah@example.com",
+      "active": true,
+      "roles": [
+        "billing",
+        "viewer"
+      ],
+      "last_login": "2026-03-02T12:03:00",
+      "address": {
+        "city": "Pune",
+        "country": "India"
+      }
+    },
+    {
+      "id": "7",
+      "name": "Gita",
+      "email": "gita@example.com",
+      "active": false,
+      "roles": [
+        "editor",
+        "viewer"
+      ],
+      "last_login": null,
+      "address": {
+        "city": "Berlin",
+        "country": "Germany"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Hugo",
+      "email": "hugo@example.org",
+      "active": true,
+      "roles": [
+        "viewer",
+        "billing"
+      ],
+      "last_login": "2026-03-03T20:46:00",
+      "address": {
+        "city": "Pune",
+        "country": "India"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Indu",
+      "email": "indu@example.com",
+      "active": false,
+      "roles": [
+        "viewer"
+      ],
+      "last_login": "2026-03-04T20:58:00",
+      "address": {
+        "city": "Mumbai",
+        "country": "India"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Jorge",
+      "email": "jorge@mail.test",
+      "active": "yes",
+      "roles": [
+        "billing",
+        "editor"
+      ],
+      "last_login": "2026-03-04T06:02:00",
+      "address": {
+        "city": "Mumbai",
+        "country": "India"
+      }
+    },
+    {
+      "id": 11,
+      "name": "Kavya",
+      "email": "kavya@example.org",
+      "active": true,
+      "roles": [
+        "admin"
+      ],
+      "last_login": "2026-03-06T08:57:00"
+    },
+    {
+      "id": 12,
+      "name": "Liam",
+      "email": "liam@example.org",
+      "active": true,
+      "roles": [
+        "admin"
+      ],
+      "last_login": "2026-03-01T13:58:00",
+      "address": {
+        "city": "Delhi",
+        "country": "India"
+      }
+    },
+    {
+      "id": 13,
+      "name": "Meera",
+      "email": "meera@mail.test",
+      "active": true,
+      "roles": [
+        "admin"
+      ],
+      "last_login": "2026-03-10T16:04:00",
+      "address": {
+        "city": "Chennai",
+        "country": "India"
+      }
+    },
+    {
+      "id": 14,
+      "name": "Nikhil",
+      "email": "nikhil@example.com",
+      "active": true,
+      "roles": [
+        "editor",
+        "admin"
+      ],
+      "last_login": null,
+      "address": {
+        "city": "Pune",
+        "country": "India"
+      }
+    },
+    {
+      "id": 15,
+      "name": "Omar",
+      "email": "omar@example.org",
+      "active": true,
+      "roles": [
+        "viewer",
+        5
+      ],
+      "last_login": "2026-03-13T20:21:00",
+      "address": {
+        "city": "Delhi",
+        "country": "India"
+      }
+    },
+    {
+      "id": 16,
+      "name": "Priya",
+      "email": "priya@example.com",
+      "active": true,
+      "roles": [
+        "billing"
+      ],
+      "last_login": "2026-03-13T06:55:00",
+      "address": {
+        "city": "Chennai",
+        "country": "India"
+      }
+    },
+    {
+      "id": 17,
+      "name": "Quentin",
+      "email": "quentin@mail.test",
+      "active": false,
+      "roles": [
+        "billing",
+        "viewer"
+      ],
+      "last_login": "2026-03-01T15:04:00",
+      "address": {
+        "city": "Pune",
+        "country": "India"
+      }
+    },
+    {
+      "id": 18,
+      "name": "Rhea",
+      "email": "rhea@example.com",
+      "active": true,
+      "roles": [
+        "billing",
+        "viewer"
+      ],
+      "last_login": "2026-03-06T12:59:00"
+    },
+    {
+      "id": 19,
+      "name": "Sanjay",
+      "email": "sanjay@mail.test",
+      "active": true,
+      "roles": [
+        "billing",
+        "editor"
+      ],
+      "last_login": "2026-03-14T14:05:00",
+      "address": {
+        "city": "Lyon",
+        "country": "France"
+      }
+    },
+    {
+      "id": 20,
+      "name": "Tara",
+      "email": "tara@mail.test",
+      "active": false,
+      "roles": [
+        "billing"
+      ],
+      "last_login": "2026-03-01T09:44:00",
+      "address": {
+        "city": null,
+        "country": "India"
+      }
+    },
+    {
+      "id": 21,
+      "name": "Uday",
+      "email": "uday@example.org",
+      "active": true,
+      "roles": [
+        "viewer",
+        "admin"
+      ],
+      "last_login": null,
+      "address": {
+        "city": "Delhi",
+        "country": "India"
+      }
+    },
+    {
+      "id": 22,
+      "name": "Vera",
+      "email": null,
+      "active": false,
+      "roles": [
+        "editor"
+      ],
+      "last_login": "2026-03-13T20:21:00",
+      "address": {
+        "city": "Berlin",
+        "country": "Germany"
+      }
+    },
+    {
+      "id": 23,
+      "name": "Wasim",
+      "email": "wasim@example.org",
+      "active": true,
+      "roles": [
+        "viewer"
+      ],
+      "last_login": "2026-03-07T16:16:00"
+    },
+    {
+      "id": 24,
+      "name": "Xena",
+      "email": "xena@example.com",
+      "active": true,
+      "roles": [
+        "editor"
+      ],
+      "last_login": "2026-03-07T09:37:00",
+      "address": {
+        "city": "Delhi",
+        "country": "India"
+      }
+    },
+    {
+      "id": 25,
+      "name": "Yash",
+      "email": "yash@example.com",
+      "active": false,
+      "roles": [
+        "viewer",
+        "admin"
+      ],
+      "last_login": "2026-03-12T07:17:00",
+      "address": {
+        "city": "Mumbai",
+        "country": "India"
+      }
+    }
+  ]
+}

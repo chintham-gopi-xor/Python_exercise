@@ -1,0 +1,31 @@
+2026-03-14 09:00:01,102 INFO [web.server] Server started on port 8080
+2026-03-14 09:00:05,311 INFO [web.request] Request completed in 120ms (user=asha status=200)
+2026-03-14 09:01:12,450 DEBUG [cache] Cache miss key=user:42
+2026-03-14 09:02:30,008 WARNING [db.pool] Pool usage at 91% (pool=main)
+2026-03-14 09:03:44,777 INFO [web.request] Request completed in 85ms (user=ben status=200)
+2026-03-14 09:05:10,120 ERROR [db.pool] Connection timeout after 30s (host=10.0.0.5)
+2026-03-14 09:05:10,125 ERROR [web.request] Unhandled exception for user=chen
+Traceback (most recent call last):
+  File "app/views.py", line 88, in checkout
+    total = compute(cart)
+ValueError: negative quantity
+2026-03-14 09:05:45,901 INFO [web.request] Request completed in 240ms (user=chen status=500)
+2026-03-14 09:06:00,000 INFO [scheduler] Retrying in 5s (attempt=2)
+2026-03-14 09:06:05,010 WARNING [scheduler] Job nightly-report delayed
+2026-03-14 09:07:21,330 INFO [web.request] Request completed in 95ms (user=dina status=200)
+2026-03-14 09:08:02,654 ERROR [db.pool] Connection timeout after 45s (host=10.0.0.6)
+2026-03-14 09:09:15,413 DEBUG [cache] Cache miss key=product:7
+2026-03-14 09:10:40,982 INFO [web.request] Request completed in 310ms (user=emil status=200)
+2026-03-14 09:11:55,200 CRITICAL [web.server] Out of memory, restarting
+Traceback (most recent call last):
+  File "app/server.py", line 12, in run
+    serve()
+MemoryError
+2026-03-14 09:12:30,001 INFO [web.server] Server started on port 8080
+2026-03-14 09:13:02,771 INFO [web.request] Request completed in 70ms (user=asha status=200)
+2026-03-14 09:14:19,342 WARNING [db.pool] Pool usage at 87% (pool=reports)
+2026-03-14 09:15:48,090 ERROR [mailer] SMTP refused connection (host=10.0.0.9)
+2026-03-14 09:16:33,555 INFO [web.request] Request completed in 150ms (user=ben status=200)
+2026-03-14 09:17:50,615 DEBUG [cache] Cache miss key=user:7
+2026-03-14 09:18:12,909 INFO [web.request] Request completed in 105ms (user=dina status=200)
+2026-03-14 09:19:30,420 INFO [scheduler] Job nightly-report finished

@@ -1,0 +1,26 @@
+id,title,author,year,genre
+1,The Pragmatic Programmer,David Thomas; Andrew Hunt,1999,programming
+2,Clean Code,Robert C. Martin,2008,programming
+3,Fluent Python,Luciano Ramalho,2015,programming
+4,Python Crash Course,Eric Matthes,2015,programming
+5,Automate the Boring Stuff with Python,Al Sweigart,2015,programming
+6,Grokking Algorithms,Aditya Bhargava,2016,computer science
+7,Introduction to Algorithms,Thomas H. Cormen,1990,computer science
+8,The Art of Computer Programming,Donald Knuth,1968,computer science
+9,Structure and Interpretation of Computer Programs,Harold Abelson,1985,computer science
+10,Design Patterns,Erich Gamma,1994,programming
+11,Refactoring,Martin Fowler,1999,programming
+12,The Mythical Man-Month,Frederick Brooks,1975,software engineering
+13,Code Complete,Steve McConnell,1993,software engineering
+14,Working Effectively with Legacy Code,Michael Feathers,2004,software engineering
+15,Test-Driven Development by Example,Kent Beck,2002,software engineering
+16,The Hobbit,J. R. R. Tolkien,1937,fiction
+17,The Lord of the Rings,J. R. R. Tolkien,1954,fiction
+18,Dune,Frank Herbert,1965,fiction
+19,The Martian,Andy Weir,2011,fiction
+20,Project Hail Mary,Andy Weir,2021,fiction
+21,A Brief History of Time,Stephen Hawking,1988,science
+22,The Selfish Gene,Richard Dawkins,1976,science
+23,Python Tricks,Dan Bader,2017,programming
+24,Effective Python,Brett Slatkin,2015,programming
+25,Thinking Fast and Slow,Daniel Kahneman,2011,psychology

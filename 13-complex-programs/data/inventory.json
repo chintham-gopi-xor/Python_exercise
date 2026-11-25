@@ -1,0 +1,9 @@
+{
+  "products": [
+    {"sku": "PEN-BLU", "name": "Blue pen", "quantity": 120, "price": "0.80", "reorder_level": 50},
+    {"sku": "NB-A5", "name": "A5 notebook", "quantity": 18, "price": "3.50", "reorder_level": 20},
+    {"sku": "USB-32", "name": "USB stick 32GB", "quantity": 7, "price": "9.99", "reorder_level": 5},
+    {"sku": "MUG-LOGO", "name": "Logo mug", "quantity": 0, "price": "6.25", "reorder_level": 10}
+  ],
+  "history": []
+}

@@ -1,0 +1,30 @@
+Asha Nair | asha.nair@example.com | +91 98765 43210
+Ben Thomas | ben_thomas@mail.example.org | 98765-43211
+Chen Wei | chen.wei+news@example.co.uk | (555) 123-4567
+Dina Patel | dina.patel@example | 98765 43212
+Emil Joseph | emil.joseph@@example.com | 555-123-4568
+Farah Khan | farah.khan@example.com | +91-98765-43213
+Gita Rao | gita rao@example.com | 98765 4321
+Hugo Dsouza | hugo.dsouza@example.com | 555 123-4569
+Indu Menon | INDU.MENON@EXAMPLE.COM | +91 9876543214
+Jorge Silva | jorge.silva@.com | (555)123-4570
+Kavya Iyer | kavya.iyer@example.io | 98765 43215
+Liam Brown | liam.brown.example.com | 555-1234
+Meera Das | meera.das@sub.domain.example.com | +91 98765 43216
+Nikhil Shah | nikhil@shah | 98765 43217
+Omar Ali | omar.ali@example.com | 0098765 43218
+Priya Singh | priya-singh@example.in | (555) 123-4571
+Quentin Fox | quentin.fox@example.c | 555-123-4572
+Rhea Kapoor | rhea.kapoor@example.com | 98765 43219
+Sanjay Gupta | sanjay_gupta@example.com | +44 20 7946 0958
+Tara Bose | tara.bose@example.com | 98765-43220
+Uday Verma | uday@verma@example.com | 98765 43221
+Vera Lopez | vera.lopez@example.es | (555) 123-45
+Wasim Khan | wasim.khan@example.com | 98765 43222
+Xena Paul | xena.paul@example.com | +91 98765 4323
+Yash Jain | yash.jain@example.com | 555.123.4573
+Zara Ahmed | zara.ahmed@example.com | 98765 43224
+Alan Turing | alan.turing@example.org | (555) 123-4574
+Bela Nagy | bela.nagy@example.hu | +91 98765 43225
+Cora Diaz | cora.diaz@example.com | 98765-43226
+Dev Anand | dev.anand@example.com | 98765 43227

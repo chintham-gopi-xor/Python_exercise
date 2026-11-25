@@ -1,0 +1,19 @@
+# Sample script for T13-E06. Lines starting with # are comments.
+open checking alice 100
+open savings bob 500
+deposit alice 50
+withdraw alice 200       # allowed: checking accounts may go 100 below zero
+withdraw alice 100       # fails: would exceed the overdraft
+transfer bob alice 120
+withdraw bob 10
+withdraw bob 10
+withdraw bob 10          # fails: savings allows 3 withdrawals and the transfer counted
+deposit carol 10         # fails: no such account
+deposit alice -5         # fails: invalid amount
+freeze bob
+deposit bob 10           # fails: frozen
+unfreeze bob
+interest bob 2.5
+statement alice
+statement bob
+summary
